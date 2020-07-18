@@ -39,11 +39,9 @@ for var in cat_vars:
 
 
 
-Numerical Variable Distributions
-All 3 distributions seem a bit right-skewed
-Age: mean = 75, min=55, max=89 - seems to be no obvious bad data
-Wells: mean = 26.9, min=20, max=30 - seems to be no obvious bad data, NOTE: Wells $\in ~(0,30)$
-PTEDUCAT: mean = 15.6, min=6, max=20 - seems to be no obvious bad data. 13-14 yrs is probably high school/GED and 17-18 years is likely Bachelor's degree
+Numerical Variable DistributionsAge: mean = 75, min=55, max=89 
+Wells: mean = 26.9, min=20, max=30 
+PTEDUCAT: mean = 15.6, min=6, max=20 
 
 
 from matplotlib import pyplot as plt
