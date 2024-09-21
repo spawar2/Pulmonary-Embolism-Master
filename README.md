@@ -17,4 +17,4 @@ PTEDUCAT Years of Education
 PTETHCAT Ethnicity
 PTRACCAT Race
 Wells Score, 1-hot encoding, Train/Test Split, Logistic Regression, Random Forest, K nearest neighbors KNN, neural nets, prediction Evaluation Metrics: accuracy, precision, sensitivity, specificity, fscore.
-selected function(LogisticRegression, RandomForestClassifier, KNeighborsClassifier, MLPClassifier, log_clf.fit, log_clf_preds)
+selected function(LogisticRegression, RandomForestClassifier, KNeighborsClassifier, MLPClassifier, log_clf.fit, log_clf_preds).
