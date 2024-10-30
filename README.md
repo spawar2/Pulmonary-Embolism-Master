@@ -1,5 +1,5 @@
 [Python: numpy, sklearn, pandas, os, MATPLOTLIB].
-Yale University, School of Medicine, Department of Genetics, Yale Center for Genome Analysis (YCGA), Connecticut,  New Haven, USA.
+Yale University, School of Medicine, Department of Genetics, Yale Center for Genome Analysis (YCGA), Connecticut,  New Haven, United States of America (USA).
 https://campuspress.yale.edu/shrikantpawar/
 
 Pulmonary-Embolism-Master.py: Pulmonary Embolism Variable read
