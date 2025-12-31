@@ -19,7 +19,32 @@ PTRACCAT Race
 Wells Score, 1-hot encoding, Train/Test Split, Logistic Regression, Random Forest, K nearest neighbors KNN, neural nets, prediction Evaluation Metrics: accuracy, precision, sensitivity, specificity, fscore.
 selected function(LogisticRegression, RandomForestClassifier, KNeighborsClassifier, MLPClassifier, log_clf.fit, log_clf_preds).
 ![download (1)](https://github.com/user-attachments/assets/5411d7a6-a607-48f3-8d24-c1854347ffb4)
-Accuracy (3, 5, 10 Fold similar values).
+	•	Accuracy (3, 5, 10 Fold similar values), precision0.7817164179104478
+	•	recall0.73325
+	•	f1-score0.7567079463364293
+	•	Support4000  
+	•	Accuracy, precision0.7488820899035067
+	•	recall0.7953011747063234
+	•	f1-score0.7713939393939394
+	•	Support4001 
+	•	Accuracy, precision0.7652992539069772
+	•	recall0.7642755873531617
+	•	f1-score0.7640509428651844
+	•	Support8001  
+	•	Accuracy, precision0.7652972020179628
+	•	recall0.7642794650668666
+	•	f1-score0.7640518606250305
+	•	support8001
+
+              Kappa : 1   
+        Sensitivity : 1.0000     
+        Specificity : 1.0000     
+     Pos Pred Value : 1.0000     
+     Neg Pred Value : 1.0000     
+         Prevalence : 0.3333     
+     Detection Rate : 0.3333     
+
+Detection Prevalence : 0.3333 Balanced Accuracy : 1.0000
 
 https://www.java.com/
 https://www.php.net/
